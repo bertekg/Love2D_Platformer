@@ -112,6 +112,7 @@ function love.mousepressed(x, y, button)
     end
 end
 ]]--
+--TestComment--
 
 function spawnPlatform(x, y, width, height)
     if width > 0 and height > 0 then
